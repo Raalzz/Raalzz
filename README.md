@@ -4,9 +4,12 @@ A software Developer currently working at <img height="16" width="16" src='http:
 [Antstack Technologies](https://antstack.io), Leading the Frontend Development team. I have been part of the Javascript ecosystem for quite some time and have hands-on experience developing web apps. I am eager to bring better User Experience, Accessibility into Web Development and actively seeks out new technologies.
 
 
-![Raalzz's github stats](https://github-readme-stats.vercel.app/api?username=Raalzz&count_private=true&show_icons=true&theme=radical)
+### Connect with me:
+[Twitter](twitter.com/Raalzz), [Github](github.dev/Raalzz), [Polywork](polywork.com/raalzz), [Linkedin](linkedin.com/in/raalzz/), [Reddit](reddit.com/user/Raalzz619), [last.fm](last.fm/user/Raalzz)
 
-Twitter: [@Raalzz](twitter.com/Raalzz)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Raalzz&count_private=true&show_icons=true&theme=radical)
+
 
 <!--
 **Raalzz/Raalzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
