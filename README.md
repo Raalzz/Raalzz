@@ -1,4 +1,7 @@
-### Raalzz
+Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Rahul,
+
+A software Developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/>
+[Antstack Technologies](https://antstack.io), Leading the Frontend Development team. I have been part of the Javascript ecosystem for quite some time and have hands-on experience developing web apps. I am eager to bring better User Experience, Accessibility into Web Development and actively seeks out new technologies.
 
 
 ![Raalzz's github stats](https://github-readme-stats.vercel.app/api?username=Raalzz&count_private=true&show_icons=true&theme=radical)
