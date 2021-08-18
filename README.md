@@ -41,13 +41,12 @@ A software Developer currently working at <img height="16" width="16" src='http:
   <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-E33332?style=flat-square&logo=Testing Library&logoColor=white" />
 </p>
 
-<!-- https://open.spotify.com/user/pxrccvgzv7qxk6aoyli5kl2jr -->
-
 ### 📈 Github Stats 
 
 ![Raalzz's Stats](https://github-readme-stats.vercel.app/api?username=Raalzz&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=radical)
 ![Raalzz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raalzz&layout=compact&hide=php&hide_border=true&theme=radical)
 
+<!-- https://open.spotify.com/user/pxrccvgzv7qxk6aoyli5kl2jr -->
 
 <!--
 **Raalzz/Raalzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
