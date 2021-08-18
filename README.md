@@ -27,7 +27,12 @@ A software Developer currently working at <img height="16" width="16" src='http:
    <img src="https://img.shields.io/badge/--CB3837?style=flat-square&logo=NPM&logoColor=white"/>
 </p> -->
 
-### Github Stats 
+### 🗒 Blogs I've written
+- [Automating Code checks and Tests with GIT Hooks](https://www.antstack.io/blog/adding-git-hooks-to-your-project/)
+- [Hacks I use to keep Myself up-to-date in Technology](https://raalzz.com/hacks-i-use-to-keep-myself-up-to-date-in-technolog/)
+- [My first Hackathon Experience](https://raalzz.com/my-first-hackathon-experience/)
+
+### 📈 Github Stats 
 
 ![Raalzz's Stats](https://github-readme-stats.vercel.app/api?username=Raalzz&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=radical)
 ![Raalzz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raalzz&layout=compact&hide=php&hide_border=true&theme=radical)
