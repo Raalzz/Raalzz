@@ -6,7 +6,7 @@ A software Developer currently working at <img height="16" width="16" src='http:
 
 ### Find me here:
 <p>
-  <a href="mailto:hi@raalzz.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:hi@raalzz.com?subject=[GitHub]%20Contact&body=Hello,"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://twitter.com/raalzz"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/raalzz"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://polywork.com/raalzz"><img src="https://img.shields.io/badge/polywork-543DE0.svg?style=for-the-badge&logo=polywork&logoColor=white"/></a>
