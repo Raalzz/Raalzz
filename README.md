@@ -1,7 +1,7 @@
 <h2>Heya..<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/></h2>
 
-A software Developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/>
-[Antstack Technologies](https://antstack.io), Leading the Frontend Development team. I have been part of the Javascript ecosystem for quite some time and have hands-on experience developing web apps. I am eager to bring better User Experience, Accessibility into Web Development and actively seeks out new technologies.
+A software Developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.com'/>
+[Antstack Technologies](https://antstack.com), Leading the Frontend Development team. I have been part of the Javascript ecosystem for quite some time and have hands-on experience developing web apps. I am eager to bring better User Experience, Accessibility into Web Development and actively seeks out new technologies.
 
 
 ### Find me here:
